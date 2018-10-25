@@ -1,0 +1,12 @@
+1. buka localhost/phpmyadmin
+2. hapus db lama anda
+3. bikin db baru dengan nama data_pegawai
+4. buka database data_pegawai
+5. pilih import
+6. pilih tombol choose file
+7. cari file data_pegawai.sql yang ada di folder "db" di folder ini
+8. klik go
+9. buka localhost/BPS/
+10. login dengan mengetikan nip dan jabatan pada tabel user
+
+// Jangan lupa titik koma;
